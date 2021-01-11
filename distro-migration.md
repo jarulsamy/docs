@@ -68,7 +68,12 @@ UUID=36a58553-9c0d-442a-ad3f-e35e7a3dcee0 /mnt/sega1 btrfs defaults,user,exec 0 
 - [ ] Install FirewallD.
 - [ ] Learn CLI of FirewallD.
 - [ ] Install all FirewallD configurations.
+- [ ] Install cockpit
+- [ ] Raise all docker containers
 - [ ] Install all systemd services.
+
+- [ ] Check remote backups
+- [ ] Check timers
 
 ## Post-post Installation Setup
 
